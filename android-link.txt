@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://big-planner-succeed-interaction.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://enhanced-diego-deck-chance.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-08-24 08:15:24 UTC
+Created   : 2026-08-24 11:26:10 UTC
 =======================================================
