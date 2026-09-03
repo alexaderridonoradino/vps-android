@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://intention-supplemental-targeted-brisbane.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://michel-ion-hold-judges.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-03 00:23:17 UTC
+Created   : 2026-09-03 05:51:04 UTC
 =======================================================
